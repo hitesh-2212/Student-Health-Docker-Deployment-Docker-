@@ -178,17 +178,6 @@ The complete machine learning pipeline, including data preprocessing, model trai
 - Docker Hub
 - AWS EC2 (Deployment Ready)
 
----
-
-# 📸 Screenshots
-
-### FastAPI Swagger
-
-*(Add screenshot here)*
-
-### Streamlit Application
-
-*(Add screenshot here)*
 
 ---
 
